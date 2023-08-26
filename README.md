@@ -1,5 +1,5 @@
 # Ansible
-#This is test
+This is test
 # for login startup 
 #!/bin/bash  
 #/root/.bash_profile End line
